@@ -21,7 +21,7 @@ public class Main {
         BufferedReader br = new BufferedReader(new FileReader(in_file));
 
         String line;
-        String[] judete = new String [42];
+        String[] judete = new String [4];
 
         int k = 0;  // counter
 
